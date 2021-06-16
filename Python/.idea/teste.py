@@ -1,0 +1,7 @@
+p = float(input('Digite um preço de um produto: R$'))
+d = p-(p*10/100)
+a = p+(p*10/100)
+ap = p+(p*15/100)
+print(f'Se você pagar à vista, terá um desconto de 10% ficando por R${d:.2f}')
+print(f'E se pagar parcelado no cartão, terá um aumento de 5% ficando por R${a:.2f}')
+print(f'E se a parcela passar de 10x você terá um aumento de 15% pra cada parcela, passando a ficar R${ap:.2f}')

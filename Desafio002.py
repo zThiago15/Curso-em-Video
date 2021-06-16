@@ -1,0 +1,6 @@
+d = int(input('Digite o dia que em que você nasceu: '))
+m = input('Agora digite o mês: ').strip()
+a = int(input('E o ano: '))
+print(f'Você nasceu no dia \033[36m{d} \033[mde \033[33m{m} \033[mde \033[34m{a}!')
+resposta = input('\033[30mEstá correto? ')
+print('Que bom! :D')

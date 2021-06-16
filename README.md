@@ -4,17 +4,17 @@
  [pycharm-img]: https://img.shields.io/badge/Pycharm-v2021.1.2-yellow
  [pycharm]: https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
  
-## Descrição 📌
+### Descrição 📌
 Repositório dos exercícios de Python do Curso em Vídeo.
 
 ---
-## Instalação ⬇️
+### Instalação ⬇️
 [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows) - Selecione o seu SO(Sistema Operacional), baixe a versão Community da IDE, abra o arquivo executável após o download e instale-o em seu computador.
 
 ![image](https://user-images.githubusercontent.com/61299540/122255082-28d5f100-cea4-11eb-86ff-2aebc8c2f8bf.png)
 
 ---
-## Execução ✅
+### Execução ✅
 ```bash
 # Crie uma pasta e clone este repositório dentro dela
 git clone 

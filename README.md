@@ -23,7 +23,7 @@ https://github.com/zThiago15/Curso-em-Video/
 # Abra o PyCharm e selecione o diretório onde os arquivos foram salvos
 
 ```
-## Agora você seleciona um arquivo com a extensão *py* e clique no botão de play verde ou use o comando "Shift + F10" pra executar o programa.
+## Agora você seleciona um arquivo com a extensão *.py* e clique no botão _play_ verde ou use o comando "Shift + F10" pra executar o programa.
 
 --- 
 Licença MIT ©

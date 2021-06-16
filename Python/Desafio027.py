@@ -1,5 +1,0 @@
-nome = str(input('\033[1;34mDigite seu nome completo: ')).title().strip()
-print('\033[1;32mSeja muito bem-vindo(a)!')
-div = nome.split()
-print(f'\033[1;32mSeu primeiro nome é: \033[1;34m{div[0]}.')
-print(f'\033[1;32mSeu último nome é: \033[1;34m{div[-1]}.')
